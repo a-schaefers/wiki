@@ -6,5 +6,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - name: Run a one-line script
+    - name: Update Wiki
       run: curl -X POST -d {} "https://api.netlify.com/build_hooks/${{ secrets.NETLIFY }}"
