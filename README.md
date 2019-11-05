@@ -7,6 +7,4 @@ See: https://getkiss.org/wiki
 
 ## Markdown generation quirks
 
-**Inline links**
-
-Inline links must be written as `<https://getkiss.org>`.
+- Inline links must be written as `<https://getkiss.org>`.
